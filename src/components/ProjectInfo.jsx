@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Header from './common/Header';
 import ImageSlideshow from './ImageSlideshow';
 import PortfolioSlider from './PortfolioSlider';
+import Footer from './common/Footer';
 
 import ibwc from './../images/Projects/IBWC.png';
 import bchs from './../images/Projects/BCHS_cropped.png';
@@ -67,6 +68,7 @@ class ProjectInfo extends React.Component {
                     </div>
                 </div>
                 <PortfolioSlider images={portfolio_images} start={this.props.start} />
+                <Footer />
             </React.Fragment>
         );
 
