@@ -1,0 +1,45 @@
+.landing-page {
+    background-color: #E8E6E7;
+    // background-image: url("./../images/Lucy\ Swett\ Portfolio\ LP\ BG.png");
+    // background-position: 50% 0;
+    // background-size: cover;
+    height: 100vh;
+
+    .lp-img {
+        position: absolute;
+        bottom: 0;
+        left: 30%;
+        transform: scale(0.75) scaleX(-1);
+        transform-origin: bottom;
+        z-index: 0;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: "Rozha One", serif;
+        line-height: 0.9;
+        color: black;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 3em;
+        text-transform: unset;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        padding-top: 5%;
+    }
+
+    h3 {
+        font-size: 1.25em;
+        padding: 5% 0;
+    }
+
+    .z-1 {
+        position: relative;
+        z-index: 1;
+    }
+}

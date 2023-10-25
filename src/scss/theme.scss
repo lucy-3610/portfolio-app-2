@@ -1,0 +1,42 @@
+.color-signature {
+    color: $signature-color !important;
+}
+
+.color-secondary {
+    color: $secondary-color !important;
+}
+
+.color-white {
+    color: white !important;
+}
+
+.hover-signature:hover,
+.hover-signature:focus {
+    color: $signature-color !important;
+}
+
+.btn-theme {
+    display: inline-block;
+    color: black;
+    background-color: $signature-color;
+    padding: 10px 50px;
+    margin: 1% 0;
+    transition: 0.6s;
+    border: none;
+    text-decoration: none;
+
+    &:hover {
+        color: white;
+        background-color: black;
+    }
+}
+
+.btn-black {
+    color: white;
+    background-color: black;
+
+    &:hover {
+        color: black;
+        background-color: $signature-color;
+    }
+}
