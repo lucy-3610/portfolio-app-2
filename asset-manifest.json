@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-app-2/static/css/main.d4971d48.css",
+    "main.js": "/portfolio-app-2/static/js/main.efc34b97.js",
+    "static/js/787.8637b21c.chunk.js": "/portfolio-app-2/static/js/787.8637b21c.chunk.js",
+    "static/media/JPL_Blog.png": "/portfolio-app-2/static/media/JPL_Blog.ff6c704fd04c27c23521.png",
+    "static/media/IBWC.png": "/portfolio-app-2/static/media/IBWC.3e6d53341ebba7a8a616.png",
+    "static/media/Titanium_Yoga.png": "/portfolio-app-2/static/media/Titanium_Yoga.757742fa6ba30666a6b0.png",
+    "static/media/Lucy_Swett_About.jpg": "/portfolio-app-2/static/media/Lucy_Swett_About.c6fd5bac686582e8d018.jpg",
+    "static/media/Chemours.png": "/portfolio-app-2/static/media/Chemours.6eee1158559681cf954c.png",
+    "static/media/Buckeye_Blueprint.png": "/portfolio-app-2/static/media/Buckeye_Blueprint.2ee80f04a02a0522c944.png",
+    "static/media/Culliton Channel Consulting.jpg": "/portfolio-app-2/static/media/Culliton Channel Consulting.1d58f65c2afae88f8bc1.jpg",
+    "static/media/Lucy Swett Portfolio LP BG.png": "/portfolio-app-2/static/media/Lucy Swett Portfolio LP BG.72884864cf79f69ca577.png",
+    "static/media/BCHS_cropped.png": "/portfolio-app-2/static/media/BCHS_cropped.5492a144fb4f4bd2b349.png",
+    "static/media/Lucy_Swett_Monogram.png": "/portfolio-app-2/static/media/Lucy_Swett_Monogram.d933cadded9f892c2a67.png",
+    "static/media/Resume.pdf": "/portfolio-app-2/static/media/Resume.4ece562ade4d98df97f1.pdf",
+    "index.html": "/portfolio-app-2/index.html",
+    "main.d4971d48.css.map": "/portfolio-app-2/static/css/main.d4971d48.css.map",
+    "main.efc34b97.js.map": "/portfolio-app-2/static/js/main.efc34b97.js.map",
+    "787.8637b21c.chunk.js.map": "/portfolio-app-2/static/js/787.8637b21c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4971d48.css",
+    "static/js/main.efc34b97.js"
+  ]
+}
