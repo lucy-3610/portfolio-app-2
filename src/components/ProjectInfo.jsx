@@ -30,7 +30,7 @@ class ProjectInfo extends React.Component {
         };
     }
     render() {
-        let portfolio_images = [{ id: 0, imageName: ibwc, link: "/ibwc", alt: "International Boundary and Water Commission mockup" }, { id: 1, imageName: bchs, link: "/bchs", alt: "Wildcat Football Booster Club mockup" }, { id: 2, imageName: buckeye, link: "/buckeye" }, { id: 3, imageName: chemours, link: "/chemours" }, { id: 4, imageName: titanium, link: "/titanium" }, { id: 5, imageName: jpl, link: "/jpl" }, { id: 6, imageName: culliton, link: "/culliton" }];
+        let portfolio_images = [{ id: 0, imageName: ibwc, link: "/ibwc", alt: "International Boundary and Water Commission mockup" }, { id: 1, imageName: bchs, link: "/bchs", alt: "Wildcat Football Booster Club mockup" }, { id: 2, imageName: buckeye, link: "/buckeye" }, { id: 3, imageName: chemours, link: "/chemours" }, { id: 4, imageName: titanium, link: "/titanium" }, { id: 5, imageName: culliton, link: "/culliton" }];
         // console.log("this is props length: " + this.props.length);
         return (
             <React.Fragment>
